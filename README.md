@@ -8,3 +8,8 @@ Just Setup the **config.json** and you are Ready then Start with **chmod 777 ./R
 
 Ready!
 
+| Version | Supported          |
+| ------- | ------------------ |
+| 1.0.b   | :white_check_mark: |
+| 1.0.x   | :x:                |
+
